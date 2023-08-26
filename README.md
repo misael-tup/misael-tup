@@ -1,6 +1,6 @@
-### Misael Edgar Zepeda Díaz
+# Misael Edgar Zepeda Díaz
 
-# Petroleum engineer
+## Petroleum engineer
 
 <!--
 **misael-tup/misael-tup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
