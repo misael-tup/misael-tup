@@ -6,7 +6,7 @@ I am an active person looking for new challenges in engineering, programming, sc
 ### Course instructor | PETROIntelligence | October 2022 - August 2023
 Design and teaching of the Statistical Regressions Course (with Python) for petroleum engineers of the Society of Petroleum Engineers (SPE) Sections and Student Chapters of Mexico, Colombia, Peru, Bolivia and Brazil.
 
-### Consultant | PETROIntelligence | October 2018 - August 2023
+### Consultant | PETROIntelligence | February 2018 - August 2023
 Analyst, coordinator and report writer for market research projects in the Mexican fuel retail sector. Using Excel, Word and Python.
 
 ### Thesis Intern | Mexican Institute of Petroleum | November 2021 - September 2022
