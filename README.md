@@ -14,7 +14,7 @@ Project Y.61127: Integrated study on the formation and deposition of waxes in ga
 - Design and execution of experimental methodologies to characterize oil samples.
 - Development and management of experimental databases.
 - Analysis, modeling and non-linear regressions (Python and Excel).
-- Making oficial report presentations.
+- Making official report presentations.
 
 ### Intern | King Abdullah University of Science and Technology | June 2020 - October 2020
 Visiting Student Research Program: Researching and simulation of thermal flows with C++ and GNU/Linux software.
