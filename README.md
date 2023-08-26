@@ -1,6 +1,6 @@
 # Misael Edgar Zepeda Díaz
 ## Petroleum engineer and Master of Engineering
-### I am an active person looking for new challenges in engineering, programming, scientific research and dissemination of knowledge.
+I am an active person looking for new challenges in engineering, programming, scientific research and dissemination of knowledge.
 
 <!--
 **misael-tup/misael-tup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
