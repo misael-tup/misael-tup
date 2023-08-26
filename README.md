@@ -48,3 +48,6 @@ Organization, design and teaching of courses in Algebra, Differential Calculus, 
 
 ## Contact
 E-mail_ misael.zepeda@ingenieria.unam.edu
+
+## Personal blog
+https://misaeltup.wixsite.com/terrasciencecode
