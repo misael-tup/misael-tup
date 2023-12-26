@@ -57,11 +57,12 @@ GPA = 4.0 or 9.46/10
 ### Petroleum engineering | National Autonomous University of Mexico | September 2020 - April 2023
 GPA = 2.7 or 8.0/10
 ## Contact
-E-mail_ misael.zepeda@ingenieria.unam.edu
-E-mail_ misael.zepedadiaz@gmail.com
+- E-mail: misael.zepeda@ingenieria.unam.edu
+- E-mail: misael.zepedadiaz@gmail.com
 
 ## Personal social media
-Youtube tutorials: https://www.youtube.com/watch?v=xso_htsRHQ8&t=45s
+Youtube tutorials: 
+- https://www.youtube.com/watch?v=xso_htsRHQ8&t=45s
 
 
 
