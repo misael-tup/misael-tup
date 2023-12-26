@@ -1,5 +1,5 @@
 # Misael Edgar Zepeda Díaz
-## FullStack Junior
+## Junior FullStack Developer
 ## Petroleum engineer and Master of Engineering
 I am an active person looking for new challenges in engineering, programming, web development, scientific research and dissemination of knowledge. Currently, I am looking for an inspiring work environment that allows me to grow personally and professionally.
 
