@@ -1,27 +1,24 @@
 # Misael Edgar Zepeda Díaz
-## Junior FullStack Developer
+## Junior FullStack Developer | Data Scientist & Artifitial Intelligence | Petroleum Engineering
 ## Petroleum engineer and Master of Engineering
-I am an active person looking for new challenges in engineering, programming, web development, scientific research and dissemination of knowledge. Currently, I am looking for an inspiring work environment that allows me to grow personally and professionally.
+I am an active person looking for new challenges in engineering, programming, artificial intelligence, web development, scientific research and dissemination of knowledge. Currently, I am looking for an inspiring work environment that allows me to grow personally and professionally.
 
 ## Academic projects
 ### E-commerce | Bootcamp Generation Mexico | Octubre 2023 - Enero 2024
-Collaborative development of an e-commerce website with React for the sale of Pokémon products in Guadalajara, Mexico.
+I collaborated in the development of an e-commerce platform using design and project management tools such as Figma and Jira. Efficient implementation of version control using Git and GitHub. Applied JavaScript, HTML, CSS, and Java, along with the use of React on the Front End and Spring Boot (with REST API) on the Back End. Successfully managed databases through MySQL, contributing to the overall success of the web project.
 
 ## Experience
 ### Course instructor | PETROIntelligence | October 2022 - October 2023
-Design and teaching of the Statistical Regressions Course (with Python and Google Colab) for petroleum engineers of the Society of Petroleum Engineers (SPE) Sections and Student Chapters of Mexico, Colombia, Peru, Bolivia and Brazil.
+I designed and taught a course on applied statistics for engineering, using Python and libraries such as NumPy, Pandas, Matplotlib, and Gekko, with the Google Colab platform and the Spyder IDE. Contributed to the dissemination of science in Mexico, Colombia, Peru, Bolivia, and Brazil.
 
-### Consultant | PETROIntelligence | February 2018 - July 2023 (by project)
-Business Intelligence Analyst, coordinator and report writer for market research projects in the Mexican fuel retail sector. Using Excel, Python and SQL queries.
+### Business Intelligence Analyst | PETROIntelligence | February 2018 - July 2023 (by project)
+I conducted business intelligence and results reporting for companies in the Mexican fuel sector using tools such as phpMyAdmin, SQL, Python, Excel, and Word. Additionally, I served as a project supervisor with a team of 4 people.
 
 ### Thesis Intern | Mexican Institute of Petroleum | November 2021 - September 2022
 Project Y.61127: Integrated study on the formation and deposition of waxes in gas and condensate production and transport systems in the presence of water and solid inorganic particles.
-- Design and execution of experimental methodologies to characterize oil samples.
-- Development and management of experimental databases.
-- Analysis, modeling and non-linear regressions (Python, Excel, Tableau).
-- Making official report presentations.
+I conducted experimental work, data analysis, and modeling, and programmed linear and nonlinear regressions using Python and libraries such as Gekko and SciPy. I also prepared reports and technical presentations for the oil company Pemex, collaborating within a multidisciplinary team.
 
-### Intern | King Abdullah University of Science and Technology | June 2020 - October 2020
+### Research Intern | King Abdullah University of Science and Technology | June 2020 - October 2020
 Visiting Student Research Program: Researching and simulation of thermal flows with C++ and GNU/Linux software.
 
 ### Professional practitioner | Regulatory Commission of Energy | June 2020 - October 2017
@@ -34,17 +31,26 @@ Organization, design and teaching of courses in Algebra, Differential Calculus, 
 ## Technical skills
 - HTML, CSS, JavaScript, Java
 - React, Spring Boot, Bootstrap
-- Python, Matlab, C++, Fortran, VisualBasic, R.
+- Python (NumPy, Pandas, TensorFlow, Seaborn)
+- Matlab, C++, Fortran, VisualBasic, R.
 - OvearLeaf (LateX)
 - OriginLab – Graphing & data analysis.
+- Git, Github, Git bash
+- MySQL, Tableau, PowerBI
 - Advanced Excel and Visual Basic for Applications
+- IBM SPSS
 - Jira, Figma
+- Eclipse, Visual Studio Code, Spyder, Colab, Jupyter
   
 ## Soft skills
-- Communication
+- Detail Orientation
+- Analytical Thinking
+- Adaptability
+- Growth Mindset
+- Effective communication
 - Teamwork
-- Persistence
-- Collaboration
+- Problem Solving
+- Future-oriented
 
 ## Languages
 - English (Intermediate)
