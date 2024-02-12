@@ -17,7 +17,7 @@ I am an active person looking for new challenges in engineering, programming, ar
 ## Others
 [![My Skills](https://skillicons.dev/icons?i=r,cpp,fortran,matlab,octave,postman,latex,git,figma)](https://skillicons.dev)
 ## IDE's
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,spyder,anaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,anaconda)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
