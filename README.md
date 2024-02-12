@@ -5,6 +5,9 @@ I am an active person looking for new challenges in engineering, programming, ar
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/misael-zepeda-d) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MisaelZepeda_D) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@tupeck6657) 
 
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@tupeck) 
+
 # 💻 Tech Stack:
 ## FrontEnd
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind)](https://skillicons.dev)
@@ -30,8 +33,7 @@ I am an active person looking for new challenges in engineering, programming, ar
 ---
 [![](https://visitcount.itsvg.in/api?id=misael-tup&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@tupeck) 
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
