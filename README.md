@@ -1,4 +1,4 @@
-# 💫 <span style="font-family: 'Arial', sans-serif;">W</span>elcome to Misael's repo!
+# 💫 VVelcome to Misael's repo!
 I am an active person looking for new challenges in engineering, programming, artificial intelligence, web development, scientific research and dissemination of knowledge. Currently, I am looking for an inspiring work environment that allows me to grow personally and professionally.
 
 
