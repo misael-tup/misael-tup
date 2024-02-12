@@ -12,7 +12,7 @@ I am an active person looking for new challenges in engineering, programming, ar
 [![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,maven)](https://skillicons.dev)
 ## Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-## Datascience
+## Datascience & Artifitial Intelligence
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,sklearn)](https://skillicons.dev)
 ## Others
 [![My Skills](https://skillicons.dev/icons?i=r,cpp,fortran,matlab,octave,postman,latex,git,figma)](https://skillicons.dev)
