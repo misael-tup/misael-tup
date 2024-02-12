@@ -9,9 +9,11 @@ I am an active person looking for new challenges in engineering, programming, ar
 ## FrontEnd
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind)](https://skillicons.dev)
 ## BackEnd
-[![My Skills](https://skillicons.dev/icons?i=java,python,spring,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs)](https://skillicons.dev)
 ## Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+## Datascience
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow)](https://skillicons.dev)
 ## Others
 [![My Skills](https://skillicons.dev/icons?i=r,cpp,fortran,vscode)](https://skillicons.dev)
 
