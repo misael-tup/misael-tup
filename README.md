@@ -5,16 +5,14 @@ I am an active person looking for new challenges in engineering, programming, ar
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/misael-zepeda-d) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MisaelZepeda_D) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@tupeck6657) 
 
+
 # 💻 Tech Stack:
 
-## FrontEnd
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind&perline=3)](https://skillicons.dev)
+| FrontEnd | BackEnd | Others |
+| ---------|---------|--------|
+| ![FrontEnd Skills](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind&perline=3) | ![Backend Skills](https://skillicons.dev/icons?i=backend-skills1,backend-skills2,backend-skills3&perline=3) | ![Other Skills](https://skillicons.dev/icons?i=other-skill1,other-skill2,other-skill3&perline=3) |
 
-## BackEnd
-[![Backend Skills](https://skillicons.dev/icons?i=backend-skills1,backend-skills2,backend-skills3&perline=3)](https://skillicons.dev)
 
-## Others
-[![Other Skills](https://skillicons.dev/icons?i=other-skill1,other-skill2,other-skill3&perline=3)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
