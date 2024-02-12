@@ -7,7 +7,7 @@ I am an active person looking for new challenges in engineering, programming, ar
 
 # 💻 Tech Stack:
 ## FrontEnd
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind)](https://skillicons.dev)
 ## BackEnd
 
 ## Others
