@@ -1,4 +1,4 @@
-# 💫 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=misael-tup&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)elcome to Misael's repo!
+# 💫 elcome to Misael's repo!
 I am an active person looking for new challenges in engineering, programming, artificial intelligence, web development, scientific research and dissemination of knowledge. Currently, I am looking for an inspiring work environment that allows me to grow personally and professionally.
 
 
