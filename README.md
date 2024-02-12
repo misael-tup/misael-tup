@@ -1,74 +1,28 @@
-# Misael Edgar Zepeda Díaz
-## Junior FullStack Developer | Data Scientist & Artifitial Intelligence | Petroleum Engineer
-## Petroleum engineer and Master of Engineering
+# 💫 About Me:
 I am an active person looking for new challenges in engineering, programming, artificial intelligence, web development, scientific research and dissemination of knowledge. Currently, I am looking for an inspiring work environment that allows me to grow personally and professionally.
 
-## Academic projects
-### E-commerce | Bootcamp Generation Mexico | Octubre 2023 - Enero 2024
-I collaborated in the development of an e-commerce platform using design and project management tools such as Figma and Jira. Efficient implementation of version control using Git and GitHub. Applied JavaScript, HTML, CSS, and Java, along with the use of React on the Front End and Spring Boot (with REST API) on the Back End. Successfully managed databases through MySQL, contributing to the overall success of the web project.
 
-## Experience
-### Course instructor | PETROIntelligence | October 2022 - October 2023
-I designed and taught a course on applied statistics for engineering, using Python and libraries such as NumPy, Pandas, Matplotlib, and Gekko, with the Google Colab platform and the Spyder IDE. Contributed to the dissemination of science in Mexico, Colombia, Peru, Bolivia, and Brazil.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/misael-zepeda-d) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MisaelZepeda_D) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@tupeck6657) 
 
-### Business Intelligence Analyst | PETROIntelligence | February 2018 - July 2023 (by project)
-I conducted business intelligence and results reporting for companies in the Mexican fuel sector using tools such as phpMyAdmin, SQL, Python, Excel, and Word. Additionally, I served as a project supervisor with a team of 4 people.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=misael-tup&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=misael-tup&theme=city_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=misael-tup&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Thesis Intern | Mexican Institute of Petroleum | November 2021 - September 2022
-Project Y.61127: Integrated study on the formation and deposition of waxes in gas and condensate production and transport systems in the presence of water and solid inorganic particles.
-I conducted experimental work, data analysis, and modeling, and programmed linear and nonlinear regressions using Python and libraries such as Gekko and SciPy. I also prepared reports and technical presentations for the oil company Pemex, collaborating within a multidisciplinary team.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=misael-tup&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
-### Research Intern | King Abdullah University of Science and Technology | June 2020 - October 2020
-Visiting Student Research Program: Researching and simulation of thermal flows with C++ and GNU/Linux software.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=misael-tup&limit=5&theme=alduin&combine_all_yearly_contributions=true)
 
-### Professional practitioner | Regulatory Commission of Energy | June 2020 - October 2017
-- Documentary validation and information analysis of the Mexican fuel retail sector in the technological platforms of the institution.
-- Review of articles of incorporation, lease contracts, transfer of rights, purchase-sale agreements.
+---
+[![](https://visitcount.itsvg.in/api?id=misael-tup&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Course instructor | National Autonomous University of Mexico | January 2013 - January 2017
-Organization, design and teaching of courses in Algebra, Differential Calculus, Analytical Geometry and Programming with C++.
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@tupeck) 
 
-## Technical skills
-- HTML, CSS, JavaScript, Java
-- React, Spring Boot, Bootstrap
-- Python (NumPy, Pandas, TensorFlow, Seaborn)
-- Matlab, C++, Fortran, VisualBasic, R.
-- OvearLeaf (LateX)
-- OriginLab – Graphing & data analysis.
-- Git, Github, Git bash
-- MySQL, Tableau, PowerBI
-- Advanced Excel and Visual Basic for Applications
-- IBM SPSS
-- Jira, Figma
-- Eclipse, Visual Studio Code, Spyder, Colab, Jupyter
   
-## Soft skills
-- Detail Orientation
-- Analytical Thinking
-- Adaptability
-- Growth Mindset
-- Effective communication
-- Teamwork
-- Problem Solving
-- Future-oriented
-
-## Languages
-- English (Intermediate)
-- Portuguese (Basic)
-- Spanish (Native)
-
-## Education
-### Master of engineering | National Autonomous University of Mexico | August 2012 - May 2019
-GPA = 4.0 or 9.46/10
-### Petroleum engineering | National Autonomous University of Mexico | September 2020 - April 2023
-GPA = 2.7 or 8.0/10
-## Contact
-- E-mail: misael.zepeda@ingenieria.unam.edu
-- E-mail: misael.zepedadiaz@gmail.com
-
-## Personal social media
-Youtube tutorials: 
-- https://www.youtube.com/watch?v=xso_htsRHQ8&t=45s
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
