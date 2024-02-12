@@ -12,7 +12,7 @@ I am an active person looking for new challenges in engineering, programming, ar
   <img align="center" alt="CSS" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="C++" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"]>
   <img align="center" alt="C++" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg"]>
-  <img align="center" alt="C++" width="60px" src=""]>
+  <img align="center" alt="C++" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"]>
   <img align="center" alt="C++" width="60px" src=""]>
   <img align="center" alt="C++" width="60px" src=""]>
   <img align="center" alt="C++" width="60px" src=""]>
