@@ -9,15 +9,15 @@ I am an active person looking for new challenges in engineering, programming, ar
 ## FrontEnd
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind)](https://skillicons.dev)
 ## BackEnd
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,maven)](https://skillicons.dev)
 ## Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 ## Datascience
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,sklearn)](https://skillicons.dev)
 ## Others
-[![My Skills](https://skillicons.dev/icons?i=r,cpp,fortran,vscode)](https://skillicons.dev)
-
-
+[![My Skills](https://skillicons.dev/icons?i=r,cpp,fortran,matlab,octave,postman,latex,git,figma)](https://skillicons.dev)
+## IDE's
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,spyder,anaconda)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
