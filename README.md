@@ -7,7 +7,7 @@ I am an active person looking for new challenges in engineering, programming, ar
 
 # 💻 Tech Stack:
 <div style="display: inline_block"><br>
-  <img align="center" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />        
 </div>
 
 # 📊 GitHub Stats:
