@@ -8,7 +8,7 @@ I am an active person looking for new challenges in engineering, programming, ar
 # 💻 Tech Stack:
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
