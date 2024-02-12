@@ -13,7 +13,7 @@ I am an active person looking for new challenges in engineering, programming, ar
 ## Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 ## Others
-[![My Skills](https://skillicons.dev/icons?i=R,cpp,fortran,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,cpp,fortran,vscode)](https://skillicons.dev)
 
 
 
