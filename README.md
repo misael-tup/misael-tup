@@ -1,4 +1,15 @@
-# 💫 Welcome to Misael's repo!
+# 💫 <span style="display: inline-block; overflow: hidden; white-space: nowrap;">
+  <span style="animation: typeWriter 3s steps(25) infinite;">
+    VVelcome to Misael's repo!
+  </span>
+</span>
+
+<style>
+  @keyframes typeWriter {
+    from { width: 0; }
+    to { width: 100%; }
+  }
+</style>
 I am an active person looking for new challenges in engineering, programming, artificial intelligence, web development, scientific research and dissemination of knowledge. Currently, I am looking for an inspiring work environment that allows me to grow personally and professionally.
 
 
