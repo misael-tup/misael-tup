@@ -7,7 +7,16 @@ I am an active person looking for new challenges in engineering, programming, ar
 
 # 💻 Tech Stack:
 <div style="display: inline_block"><br>
-  <img align="center" alt="C++" width="30px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)>
+  <img align="center" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"]
+    <img align="center" alt="C++" width="30px" src=""]
+    <img align="center" alt="C++" width="30px" src=""]
+    <img align="center" alt="C++" width="30px" src=""]
+    <img align="center" alt="C++" width="30px" src=""]
+    <img align="center" alt="C++" width="30px" src=""]
+    <img align="center" alt="C++" width="30px" src=""]
+    <img align="center" alt="C++" width="30px" src=""]
+    <img align="center" alt="C++" width="30px" src=""]
+    <img align="center" alt="C++" width="30px" src=""]
   <img align="center" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   
   
