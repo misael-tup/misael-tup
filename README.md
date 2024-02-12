@@ -16,7 +16,7 @@ I am an active person looking for new challenges in engineering, programming, ar
   <img align="center" alt="Latex" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"]>
   <img align="center" alt="R" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg"]>
   <img align="center" alt="CMake" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original-wordmark.svg"]>
-  <img align="center" alt="Anaconda" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"]>
+  <img align="center" alt="Anaconda" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg"]>
   <img align="center" alt="C++" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   
   
