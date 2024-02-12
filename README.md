@@ -9,7 +9,7 @@ I am an active person looking for new challenges in engineering, programming, ar
 ## FrontEnd
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind)](https://skillicons.dev)
 ## BackEnd
-
+[![My Skills](https://skillicons.dev/icons?i=java,python,springboot)](https://skillicons.dev)
 ## Others
 
 
