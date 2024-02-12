@@ -8,9 +8,27 @@ I am an active person looking for new challenges in engineering, programming, ar
 
 # 💻 Tech Stack:
 
-| FrontEnd | BackEnd | Others |
-| ---------|---------|--------|
-| <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind&perline=3" alt="FrontEnd Skills" width="100"> | <img src="https://skillicons.dev/icons?i=backend-skills1,backend-skills2,backend-skills3&perline=3" alt="Backend Skills" width="100"> | <img src="https://skillicons.dev/icons?i=other-skill1,other-skill2,other-skill3&perline=3" alt="Other Skills" width="100"> |
+<div align="center">
+  
+  ### FrontEnd
+  [![FrontEnd Skills](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind&perline=3)](https://skillicons.dev)
+  
+</div>
+
+<div align="center">
+  
+  ### BackEnd
+  [![Backend Skills](https://skillicons.dev/icons?i=backend-skills1,backend-skills2,backend-skills3&perline=3)](https://skillicons.dev)
+  
+</div>
+
+<div align="center">
+  
+  ### Others
+  [![Other Skills](https://skillicons.dev/icons?i=other-skill1,other-skill2,other-skill3&perline=3)](https://skillicons.dev)
+  
+</div>
+
 
 
 # 📊 GitHub Stats:
